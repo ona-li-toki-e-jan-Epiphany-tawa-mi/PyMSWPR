@@ -1,6 +1,5 @@
 **lukin kepeken toki ante: [!χραα](README.xra.md "ερτδγμεδ μ'χραα"), [English](README.md "View in English"), [Русский](README.ru_RU.md "Смотреть на русском")**
 
-
 # PyMSWPR
 
 musi Minesweeper lon toki Python tawa ilo nanpa CASIO fx-9750GIII.
