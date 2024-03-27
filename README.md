@@ -1,3 +1,5 @@
+**!!NOTICE!!:** This project is no longer developed or maintained.
+
 # PyMSWPR
 
 A version of Minesweeper written in Python for the CASIO fx-9750GIII.
