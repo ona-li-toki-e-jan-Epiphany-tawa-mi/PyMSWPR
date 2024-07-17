@@ -39,6 +39,7 @@ folder, eject it, and unplug.
 
 In the event that it does not give you the option to open the folder, you may
 need to install drivers for it
-(https://edu.casio.com/support/en/agreement.html#2) Hit Accept (only if you
-accept lol) and download fx-9860GII series > Support Software > PC Link Software
-\> FA-124. The installer will install the drivers you need along with FA-124.
+([https://edu.casio.com/support/en/agreement.html#2](https://edu.casio.com/support/en/agreement.html#2))
+Hit Accept (only if you accept lol) and download fx-9860GII series \> Support
+Software \> PC Link Software \> FA-124. The installer will install the drivers
+you need along with FA-124.
