@@ -42,8 +42,3 @@ need to install drivers for it
 (https://edu.casio.com/support/en/agreement.html#2) Hit Accept (only if you
 accept lol) and download fx-9860GII series > Support Software > PC Link Software
 \> FA-124. The installer will install the drivers you need along with FA-124.
-
-## Links
-
-Video demonstration:<br>
-https://odysee.com/@ona-li-toki-e-jan-Epiphany-tawa-mi:9/A-Minesweeper-clone-on-a-shitty-%28programming-wise%29-calculator.:e?r=HYroMZaqrVN4gL5oSJ35gcTgt3K56r39
